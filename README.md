@@ -1,46 +1,39 @@
 # Hi there! I'm Rishabh Sharma 👋 
 ### Full-Stack Developer | Freelance Web Solutions Specialist
 
-[cite_start]I am a performance-driven Full-Stack Developer with expertise in building scalable web applications using the **MERN stack, Vue.js/Nuxt.js, and TypeScript**[cite: 5]. [cite_start]I specialize in delivering end-to-end freelance projects and optimizing systems using **Redis and Kafka**[cite: 6].
+I am a performance-driven Full-Stack Developer with expertise in building scalable web applications using the **MERN stack, Vue.js/Nuxt.js, and TypeScript**.I specialize in delivering end-to-end freelance projects and optimizing systems using **Redis and Kafka**.
 
 ---
 
 ### 🛠️ My Tech Stack
 
 **Frontend:**
-- [cite_start]Vue.js, Nuxt.js, React.js, Tailwind CSS, Bootstrap[cite: 17].
-- [cite_start]State Management: Pinia[cite: 17].
+- Vue.js, Nuxt.js, React.js, Tailwind CSS, Bootstrap.
+- State Management: Pinia.
 
 **Backend & Databases:**
-- [cite_start]Node.js, Express.js, Java Spring Boot[cite: 18].
-- [cite_start]MongoDB, MySQL, Redis, Kafka[cite: 18, 19].
+- Node.js, Express.js, Java Spring Boot.
+- MongoDB, MySQL, Redis, Kafka.
 
 **Tools & DevOps:**
-- [cite_start]Docker, Git, Linux, Postman[cite: 20].
-- [cite_start]Testing: Jest, Supertest[cite: 21].
+- Docker, Git, Linux, Postman.
+- Testing: Jest, Supertest.
 
 ---
 
 ### 🚀 Featured Projects
 
-- [cite_start]**📺 Stream Scape:** A scalable OTT streaming platform built with Nuxt 3, Node.js, and BunnyCDN[cite: 24].
-- [cite_start]**🤖 AI Chatbot:** An intelligent conversational app powered by Google Gemini API and Nuxt 3[cite: 26, 27].
-- [cite_start]**🪙 Crypto Monitor:** Real-time cryptocurrency tracking system using Redis caching and Node.js.
-
----
-
-### 📊 GitHub Stats
-
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishu9354&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu9354&layout=compact&theme=tokyonight)
+- **📺 Stream Scape:** A scalable OTT streaming platform built with Nuxt 3, Node.js, and BunnyCDN.
+- **🤖 AI Chatbot:** An intelligent conversational app powered by Google Gemini API and Nuxt 3.
+- **🪙 Crypto Monitor:** Real-time cryptocurrency tracking system using Redis caching and Node.js.
 
 ---
 
 ### 📫 Let's Connect!
 
-- [cite_start]**Email:** [rs0530698@gmail.com](mailto:rs0530698@gmail.com) [cite: 3]
-- [cite_start]**LinkedIn:** [linkedin.com/in/risharma-21a4ba237/](https://linkedin.com/in/risharma-21a4ba237/) [cite: 3]
-- [cite_start]**Location:** Delhi, NCR 📍 [cite: 2]
+- **Email:** [rs0530698@gmail.com](mailto:rs0530698@gmail.com)
+- **LinkedIn:** [linkedin.com/in/risharma-21a4ba237/](https://linkedin.com/in/risharma-21a4ba237/) 
+- **Location:** Delhi, NCR 📍 
 
 ---
 <!--
